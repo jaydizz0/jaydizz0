@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jaydizz0
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C++
 - 🫠 Idk what I am doing
 
 
